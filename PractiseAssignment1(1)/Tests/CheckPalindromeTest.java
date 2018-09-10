@@ -17,8 +17,8 @@ public class CheckPalindromeTest {
 
     @Test
     public void checkResultForPalindrome(){
-        BigInteger num=new BigInteger("");
-        assertEquals(true,obj.checkPalindrome(num));
+        BigInteger num=new BigInteger("123");
+        assertEquals(false,obj.checkPalindrome(""));
     }
 
 }

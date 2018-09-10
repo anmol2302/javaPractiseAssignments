@@ -33,21 +33,23 @@ public class CheckPalindrome {
 
     public boolean checkPalindrome(Object num) {
 
-        try{
-        if(num instanceof  BigInteger){
-            if(((BigInteger) num).toString().length()!=0){
-            BigInteger origNumber=(BigInteger) num;
-        BigInteger revNUmber=reverseNumber(origNumber);
-        if(origNumber.compareTo(revNUmber) == 0) {
-            return true;
-        }}}
+        if(!(num.toString().length()==0)) {
+            try {
+                if (num instanceof BigInteger) {
+                    if (((BigInteger) num).toString().length() != 0) {
+                        BigInteger origNumber = (BigInteger) num;
+                        BigInteger revNUmber = reverseNumber(origNumber);
+                        if (origNumber.compareTo(revNUmber) == 0) {
+                            return true;
+                        }
+                    }
+                }
 
+            } catch (Exception e) {
+
+                System.out.println("Not a valid input");
+            }
         }
-        catch (Exception e){
-
-            System.out.println("Not a valid input");
-        }
-
         return false;
     }
 
