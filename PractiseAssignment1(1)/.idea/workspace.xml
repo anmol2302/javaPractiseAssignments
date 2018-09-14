@@ -1,8 +1,11 @@
 <?xml version="1.0" encoding="UTF-8"?>
 <project version="4">
+  <component name="BookmarkManager">
+    <bookmark url="file://$PROJECT_DIR$/src/StudentGrades.java" line="117" />
+  </component>
   <component name="ChangeListManager">
     <list default="true" id="c2990ae8-37d9-4e1c-828f-dede86174823" name="Default Changelist" comment="">
-      <change afterPath="$PROJECT_DIR$/src/CharacterFrequency.java" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/src/StudentGrades.java" afterDir="false" />
       <change beforePath="$PROJECT_DIR$/.idea/workspace.xml" beforeDir="false" afterPath="$PROJECT_DIR$/.idea/workspace.xml" afterDir="false" />
     </list>
     <ignored path="$PROJECT_DIR$/out/" />
@@ -29,28 +32,28 @@
       <usages-collector id="statistics.file.extensions.open">
         <counts>
           <entry key="groovy" value="1" />
-          <entry key="java" value="16" />
+          <entry key="java" value="17" />
           <entry key="txt" value="1" />
         </counts>
       </usages-collector>
       <usages-collector id="statistics.file.types.open">
         <counts>
           <entry key="Groovy" value="1" />
-          <entry key="JAVA" value="16" />
+          <entry key="JAVA" value="17" />
           <entry key="PLAIN_TEXT" value="1" />
         </counts>
       </usages-collector>
       <usages-collector id="statistics.file.extensions.edit">
         <counts>
           <entry key="groovy" value="7" />
-          <entry key="java" value="5761" />
+          <entry key="java" value="6886" />
           <entry key="txt" value="15" />
         </counts>
       </usages-collector>
       <usages-collector id="statistics.file.types.edit">
         <counts>
           <entry key="Groovy" value="7" />
-          <entry key="JAVA" value="5761" />
+          <entry key="JAVA" value="6886" />
           <entry key="PLAIN_TEXT" value="15" />
         </counts>
       </usages-collector>
@@ -64,8 +67,8 @@
       <file pinned="false" current-in-tab="false">
         <entry file="file://$PROJECT_DIR$/src/CheckPalindrome.java">
           <provider selected="true" editor-type-id="text-editor">
-            <state relative-caret-position="576">
-              <caret line="25" column="48" selection-start-line="25" selection-start-column="36" selection-end-line="25" selection-end-column="48" />
+            <state relative-caret-position="408">
+              <caret line="18" column="5" lean-forward="true" selection-start-line="6" selection-start-column="3" selection-end-line="18" selection-end-column="5" />
             </state>
           </provider>
         </entry>
@@ -82,11 +85,11 @@
           </provider>
         </entry>
       </file>
-      <file pinned="false" current-in-tab="true">
+      <file pinned="false" current-in-tab="false">
         <entry file="file://$PROJECT_DIR$/src/CharacterFrequency.java">
           <provider selected="true" editor-type-id="text-editor">
-            <state relative-caret-position="168">
-              <caret line="24" column="60" selection-start-line="24" selection-start-column="60" selection-end-line="24" selection-end-column="60" />
+            <state>
+              <caret lean-forward="true" />
               <folding>
                 <element signature="imports" expanded="true" />
               </folding>
@@ -108,6 +111,29 @@
           <provider selected="true" editor-type-id="text-editor">
             <state relative-caret-position="192">
               <caret line="8" selection-start-line="8" selection-end-line="8" />
+            </state>
+          </provider>
+        </entry>
+      </file>
+      <file pinned="false" current-in-tab="true">
+        <entry file="file://$PROJECT_DIR$/src/StudentGrades.java">
+          <provider selected="true" editor-type-id="text-editor">
+            <state relative-caret-position="541">
+              <caret line="128" column="44" selection-start-line="128" selection-start-column="44" selection-end-line="128" selection-end-column="44" />
+              <folding>
+                <element signature="e#229#230#0" expanded="true" />
+                <element signature="e#255#256#0" expanded="true" />
+                <element signature="e#290#291#0" expanded="true" />
+                <element signature="e#320#321#0" expanded="true" />
+                <element signature="e#347#348#0" expanded="true" />
+                <element signature="e#373#374#0" expanded="true" />
+                <element signature="e#408#409#0" expanded="true" />
+                <element signature="e#438#439#0" expanded="true" />
+                <element signature="e#472#473#0" expanded="true" />
+                <element signature="e#502#503#0" expanded="true" />
+                <element signature="e#548#549#0" expanded="true" />
+                <element signature="e#586#587#0" expanded="true" />
+              </folding>
             </state>
           </provider>
         </entry>
@@ -155,6 +181,7 @@
         <option value="$PROJECT_DIR$/src/ByteFileReader.java" />
         <option value="$PROJECT_DIR$/filedemo.txt" />
         <option value="$PROJECT_DIR$/src/CharacterFrequency.java" />
+        <option value="$PROJECT_DIR$/src/StudentGrades.java" />
       </list>
     </option>
   </component>
@@ -199,7 +226,7 @@
     </panes>
   </component>
   <component name="PropertiesComponent">
-    <property name="com.android.tools.idea.instantapp.provision.ProvisionBeforeRunTaskProvider.myTimeStamp" value="1536945274199" />
+    <property name="com.android.tools.idea.instantapp.provision.ProvisionBeforeRunTaskProvider.myTimeStamp" value="1536946809589" />
     <property name="com.intellij.testIntegration.createTest.CreateTestDialog.defaultLibrary" value="JUnit4" />
     <property name="com.intellij.testIntegration.createTest.CreateTestDialog.defaultLibrarySuperClass.Groovy JUnit" value="groovy.util.GroovyTestCase" />
     <property name="com.intellij.testIntegration.createTest.CreateTestDialog.defaultLibrarySuperClass.JUnit4" value="" />
@@ -232,7 +259,7 @@
       </list>
     </option>
   </component>
-  <component name="RunManager" selected="Application.CharacterFrequency">
+  <component name="RunManager" selected="Application.StudentGrades">
     <configuration name="ByteFileReader" type="Application" factoryName="Application" temporary="true" nameIsGenerated="true">
       <option name="MAIN_CLASS_NAME" value="ByteFileReader" />
       <module name="PractiseAssignment1(1)" />
@@ -247,8 +274,8 @@
         <option name="Make" enabled="true" />
       </method>
     </configuration>
-    <configuration name="Try" type="Application" factoryName="Application" temporary="true" nameIsGenerated="true">
-      <option name="MAIN_CLASS_NAME" value="Try" />
+    <configuration name="StudentGrades" type="Application" factoryName="Application" temporary="true" nameIsGenerated="true">
+      <option name="MAIN_CLASS_NAME" value="StudentGrades" />
       <module name="PractiseAssignment1(1)" />
       <method v="2">
         <option name="Make" enabled="true" />
@@ -276,18 +303,18 @@
     </configuration>
     <list>
       <item itemvalue="JUnit.EvenNumTestTest.checkEvenforBigInteger" />
-      <item itemvalue="Application.Try" />
       <item itemvalue="JUnit.PowerFourTest.testResultforBigInteger" />
       <item itemvalue="Application.ByteFileReader" />
       <item itemvalue="Application.CharacterFrequency" />
+      <item itemvalue="Application.StudentGrades" />
     </list>
     <recent_temporary>
       <list>
+        <item itemvalue="Application.StudentGrades" />
         <item itemvalue="Application.CharacterFrequency" />
         <item itemvalue="JUnit.PowerFourTest.testResultforBigInteger" />
         <item itemvalue="Application.ByteFileReader" />
         <item itemvalue="JUnit.EvenNumTestTest.checkEvenforBigInteger" />
-        <item itemvalue="Application.Try" />
       </list>
     </recent_temporary>
   </component>
@@ -341,7 +368,7 @@
     <editor active="true" />
     <layout>
       <window_info id="Favorites" order="0" weight="0.046402153" />
-      <window_info content_ui="combo" id="Project" order="1" visible="true" weight="0.1338265" />
+      <window_info active="true" content_ui="combo" id="Project" order="1" visible="true" weight="0.32548755" />
       <window_info id="Structure" order="2" side_tool="true" weight="0.25" />
       <window_info id="Designer" order="3" />
       <window_info id="Image Layers" order="4" />
@@ -351,7 +378,7 @@
       <window_info anchor="bottom" id="Message" order="0" />
       <window_info anchor="bottom" id="Find" order="1" />
       <window_info anchor="bottom" id="Run" order="2" weight="0.3283582" />
-      <window_info active="true" anchor="bottom" id="Debug" order="3" visible="true" weight="0.39891452" />
+      <window_info anchor="bottom" id="Debug" order="3" weight="0.39891452" />
       <window_info anchor="bottom" id="Cvs" order="4" weight="0.25" />
       <window_info anchor="bottom" id="Inspection" order="5" weight="0.4" />
       <window_info anchor="bottom" id="TODO" order="6" />
@@ -425,7 +452,7 @@
         </line-breakpoint>
         <line-breakpoint enabled="true" type="java-line">
           <url>file://$PROJECT_DIR$/src/CharacterFrequency.java</url>
-          <line>24</line>
+          <line>23</line>
           <properties />
           <option name="timeStamp" value="18" />
         </line-breakpoint>
@@ -437,21 +464,15 @@
         </line-breakpoint>
         <line-breakpoint enabled="true" type="java-line">
           <url>file://$PROJECT_DIR$/src/CharacterFrequency.java</url>
-          <line>26</line>
+          <line>25</line>
           <properties />
           <option name="timeStamp" value="20" />
         </line-breakpoint>
         <line-breakpoint enabled="true" type="java-line">
           <url>file://$PROJECT_DIR$/src/CharacterFrequency.java</url>
-          <line>27</line>
+          <line>26</line>
           <properties />
           <option name="timeStamp" value="21" />
-        </line-breakpoint>
-        <line-breakpoint enabled="true" type="java-line">
-          <url>file://$PROJECT_DIR$/src/CharacterFrequency.java</url>
-          <line>23</line>
-          <properties />
-          <option name="timeStamp" value="22" />
         </line-breakpoint>
         <line-breakpoint enabled="true" type="java-method">
           <url>file://$PROJECT_DIR$/Tests/CheckPalindromeTest.java</url>
@@ -513,40 +534,6 @@
         </state>
       </provider>
     </entry>
-    <entry file="file://$PROJECT_DIR$/Tests/PowerFourTest.java">
-      <provider selected="true" editor-type-id="text-editor">
-        <state relative-caret-position="373">
-          <caret line="35" column="55" selection-start-line="35" selection-start-column="55" selection-end-line="35" selection-end-column="55" />
-          <folding>
-            <element signature="imports" expanded="true" />
-          </folding>
-        </state>
-      </provider>
-    </entry>
-    <entry file="file://$PROJECT_DIR$/src/CheckPalindrome.java">
-      <provider selected="true" editor-type-id="text-editor">
-        <state relative-caret-position="576">
-          <caret line="25" column="48" selection-start-line="25" selection-start-column="36" selection-end-line="25" selection-end-column="48" />
-        </state>
-      </provider>
-    </entry>
-    <entry file="file://$PROJECT_DIR$/src/PowerFour.java">
-      <provider selected="true" editor-type-id="text-editor">
-        <state relative-caret-position="57">
-          <caret line="20" selection-start-line="20" selection-end-line="20" />
-          <folding>
-            <element signature="imports" expanded="true" />
-          </folding>
-        </state>
-      </provider>
-    </entry>
-    <entry file="file://$PROJECT_DIR$/src/Try.java">
-      <provider selected="true" editor-type-id="text-editor">
-        <state relative-caret-position="192">
-          <caret line="8" selection-start-line="8" selection-end-line="8" />
-        </state>
-      </provider>
-    </entry>
     <entry file="file://$PROJECT_DIR$/Tests/EvenNumTestTest.java">
       <provider selected="true" editor-type-id="text-editor">
         <state relative-caret-position="349">
@@ -581,6 +568,26 @@
         </state>
       </provider>
     </entry>
+    <entry file="file://$PROJECT_DIR$/Tests/PowerFourTest.java">
+      <provider selected="true" editor-type-id="text-editor">
+        <state relative-caret-position="373">
+          <caret line="35" column="55" selection-start-line="35" selection-start-column="55" selection-end-line="35" selection-end-column="55" />
+          <folding>
+            <element signature="imports" expanded="true" />
+          </folding>
+        </state>
+      </provider>
+    </entry>
+    <entry file="file://$PROJECT_DIR$/src/CharacterFrequency.java">
+      <provider selected="true" editor-type-id="text-editor">
+        <state>
+          <caret lean-forward="true" />
+          <folding>
+            <element signature="imports" expanded="true" />
+          </folding>
+        </state>
+      </provider>
+    </entry>
     <entry file="file://$PROJECT_DIR$/filedemo.txt">
       <provider selected="true" editor-type-id="text-editor">
         <state>
@@ -588,12 +595,47 @@
         </state>
       </provider>
     </entry>
-    <entry file="file://$PROJECT_DIR$/src/CharacterFrequency.java">
+    <entry file="file://$PROJECT_DIR$/src/Try.java">
       <provider selected="true" editor-type-id="text-editor">
-        <state relative-caret-position="168">
-          <caret line="24" column="60" selection-start-line="24" selection-start-column="60" selection-end-line="24" selection-end-column="60" />
+        <state relative-caret-position="192">
+          <caret line="8" selection-start-line="8" selection-end-line="8" />
+        </state>
+      </provider>
+    </entry>
+    <entry file="file://$PROJECT_DIR$/src/CheckPalindrome.java">
+      <provider selected="true" editor-type-id="text-editor">
+        <state relative-caret-position="408">
+          <caret line="18" column="5" lean-forward="true" selection-start-line="6" selection-start-column="3" selection-end-line="18" selection-end-column="5" />
+        </state>
+      </provider>
+    </entry>
+    <entry file="file://$PROJECT_DIR$/src/PowerFour.java">
+      <provider selected="true" editor-type-id="text-editor">
+        <state relative-caret-position="57">
+          <caret line="20" selection-start-line="20" selection-end-line="20" />
           <folding>
             <element signature="imports" expanded="true" />
+          </folding>
+        </state>
+      </provider>
+    </entry>
+    <entry file="file://$PROJECT_DIR$/src/StudentGrades.java">
+      <provider selected="true" editor-type-id="text-editor">
+        <state relative-caret-position="541">
+          <caret line="128" column="44" selection-start-line="128" selection-start-column="44" selection-end-line="128" selection-end-column="44" />
+          <folding>
+            <element signature="e#229#230#0" expanded="true" />
+            <element signature="e#255#256#0" expanded="true" />
+            <element signature="e#290#291#0" expanded="true" />
+            <element signature="e#320#321#0" expanded="true" />
+            <element signature="e#347#348#0" expanded="true" />
+            <element signature="e#373#374#0" expanded="true" />
+            <element signature="e#408#409#0" expanded="true" />
+            <element signature="e#438#439#0" expanded="true" />
+            <element signature="e#472#473#0" expanded="true" />
+            <element signature="e#502#503#0" expanded="true" />
+            <element signature="e#548#549#0" expanded="true" />
+            <element signature="e#586#587#0" expanded="true" />
           </folding>
         </state>
       </provider>
