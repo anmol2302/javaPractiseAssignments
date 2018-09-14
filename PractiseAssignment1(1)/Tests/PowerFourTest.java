@@ -33,7 +33,7 @@ public class PowerFourTest {
     public void testResultforBigInteger() {
 
 
-        assertEquals(true, ob.retValue(new BigInteger("-1099511627776")));
+        assertEquals(true, ob.retValue("-70368744177664"));
         assertEquals(false, ob.retValue(new BigInteger("109951162746")));
         assertEquals(false, ob.retValue(new BigInteger("10995116223365386")));
 

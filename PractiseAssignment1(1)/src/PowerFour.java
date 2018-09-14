@@ -19,9 +19,8 @@ public class PowerFour{
 
         }
 
-
         if (number instanceof String) {
-            num = new BigInteger("" + Integer.parseInt((String) number));
+            num = new BigInteger(number+"");
 
         }
 

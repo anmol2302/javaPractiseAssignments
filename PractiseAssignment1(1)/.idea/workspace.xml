@@ -2,8 +2,11 @@
 <project version="4">
   <component name="ChangeListManager">
     <list default="true" id="c2990ae8-37d9-4e1c-828f-dede86174823" name="Default Changelist" comment="">
-      <change beforePath="$PROJECT_DIR$/Tests/PowerFourTest.java" beforeDir="false" afterPath="$PROJECT_DIR$/Tests/PowerFourTest.java" afterDir="false" />
-      <change beforePath="$PROJECT_DIR$/Tests/ReadFileTest.java" beforeDir="false" afterPath="$PROJECT_DIR$/Tests/ReadFileTest.java" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/Tests/EvenNumTestTest.java" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/src/EvenNumTest.java" afterDir="false" />
+      <change beforePath="$PROJECT_DIR$/.idea/workspace.xml" beforeDir="false" afterPath="$PROJECT_DIR$/.idea/workspace.xml" afterDir="false" />
+      <change beforePath="$PROJECT_DIR$/Tests/CheckPalindromeTest.java" beforeDir="false" afterPath="$PROJECT_DIR$/Tests/CheckPalindromeTest.java" afterDir="false" />
+      <change beforePath="$PROJECT_DIR$/out/test/PractiseAssignment1(1)/CheckPalindromeTest.class" beforeDir="false" afterPath="$PROJECT_DIR$/out/test/PractiseAssignment1(1)/CheckPalindromeTest.class" afterDir="false" />
       <change beforePath="$PROJECT_DIR$/src/PowerFour.java" beforeDir="false" afterPath="$PROJECT_DIR$/src/PowerFour.java" afterDir="false" />
       <change beforePath="$PROJECT_DIR$/src/Try.java" beforeDir="false" afterPath="$PROJECT_DIR$/src/Try.java" afterDir="false" />
     </list>
@@ -28,25 +31,25 @@
       <usages-collector id="statistics.file.extensions.open">
         <counts>
           <entry key="groovy" value="1" />
-          <entry key="java" value="10" />
+          <entry key="java" value="12" />
         </counts>
       </usages-collector>
       <usages-collector id="statistics.file.types.open">
         <counts>
           <entry key="Groovy" value="1" />
-          <entry key="JAVA" value="10" />
+          <entry key="JAVA" value="12" />
         </counts>
       </usages-collector>
       <usages-collector id="statistics.file.extensions.edit">
         <counts>
           <entry key="groovy" value="7" />
-          <entry key="java" value="3207" />
+          <entry key="java" value="4142" />
         </counts>
       </usages-collector>
       <usages-collector id="statistics.file.types.edit">
         <counts>
           <entry key="Groovy" value="7" />
-          <entry key="JAVA" value="3207" />
+          <entry key="JAVA" value="4142" />
         </counts>
       </usages-collector>
     </session>
@@ -62,11 +65,11 @@
           </provider>
         </entry>
       </file>
-      <file pinned="false" current-in-tab="false">
+      <file pinned="false" current-in-tab="true">
         <entry file="file://$PROJECT_DIR$/src/PowerFour.java">
           <provider selected="true" editor-type-id="text-editor">
-            <state relative-caret-position="498">
-              <caret line="33" column="12" selection-start-line="33" selection-start-column="12" selection-end-line="33" selection-end-column="12" />
+            <state relative-caret-position="258">
+              <caret line="20" column="8" selection-start-line="20" selection-start-column="8" selection-end-line="20" selection-end-column="8" />
               <folding>
                 <element signature="imports" expanded="true" />
               </folding>
@@ -74,11 +77,11 @@
           </provider>
         </entry>
       </file>
-      <file pinned="false" current-in-tab="true">
+      <file pinned="false" current-in-tab="false">
         <entry file="file://$PROJECT_DIR$/Tests/PowerFourTest.java">
           <provider selected="true" editor-type-id="text-editor">
-            <state relative-caret-position="76">
-              <caret line="14" column="41" selection-start-line="14" selection-start-column="41" selection-end-line="14" selection-end-column="41" />
+            <state relative-caret-position="359">
+              <caret line="35" column="56" selection-start-line="35" selection-start-column="56" selection-end-line="35" selection-end-column="56" />
               <folding>
                 <element signature="imports" expanded="true" />
               </folding>
@@ -89,8 +92,8 @@
       <file pinned="false" current-in-tab="false">
         <entry file="file://$PROJECT_DIR$/Tests/CheckPalindromeTest.java">
           <provider selected="true" editor-type-id="text-editor">
-            <state relative-caret-position="264">
-              <caret line="11" column="45" selection-start-line="11" selection-start-column="45" selection-end-line="11" selection-end-column="45" />
+            <state relative-caret-position="408">
+              <caret line="17" column="40" selection-start-line="17" selection-start-column="40" selection-end-line="17" selection-end-column="40" />
               <folding>
                 <element signature="imports" expanded="true" />
               </folding>
@@ -120,6 +123,27 @@
         </entry>
       </file>
       <file pinned="false" current-in-tab="false">
+        <entry file="file://$PROJECT_DIR$/src/EvenNumTest.java">
+          <provider selected="true" editor-type-id="text-editor">
+            <state relative-caret-position="147">
+              <caret line="18" column="45" selection-start-line="18" selection-start-column="45" selection-end-line="18" selection-end-column="45" />
+            </state>
+          </provider>
+        </entry>
+      </file>
+      <file pinned="false" current-in-tab="false">
+        <entry file="file://$PROJECT_DIR$/Tests/EvenNumTestTest.java">
+          <provider selected="true" editor-type-id="text-editor">
+            <state relative-caret-position="335">
+              <caret line="37" column="121" selection-start-line="37" selection-start-column="121" selection-end-line="37" selection-end-column="121" />
+              <folding>
+                <element signature="imports" expanded="true" />
+              </folding>
+            </state>
+          </provider>
+        </entry>
+      </file>
+      <file pinned="false" current-in-tab="false">
         <entry file="file://$PROJECT_DIR$/src/MemberVariable.java">
           <provider selected="true" editor-type-id="text-editor">
             <state relative-caret-position="488">
@@ -135,22 +159,10 @@
         </entry>
       </file>
       <file pinned="false" current-in-tab="false">
-        <entry file="file://$PROJECT_DIR$/Tests/MemberTest.java">
-          <provider selected="true" editor-type-id="text-editor">
-            <state relative-caret-position="168">
-              <caret line="7" column="73" selection-start-line="7" selection-start-column="73" selection-end-line="7" selection-end-column="73" />
-              <folding>
-                <element signature="imports" expanded="true" />
-              </folding>
-            </state>
-          </provider>
-        </entry>
-      </file>
-      <file pinned="false" current-in-tab="false">
         <entry file="file://$PROJECT_DIR$/src/Try.java">
           <provider selected="true" editor-type-id="text-editor">
-            <state relative-caret-position="48">
-              <caret line="2" selection-start-line="2" selection-end-line="2" />
+            <state relative-caret-position="192">
+              <caret line="8" lean-forward="true" selection-start-line="8" selection-end-line="8" />
             </state>
           </provider>
         </entry>
@@ -173,13 +185,15 @@
       <list>
         <option value="$PROJECT_DIR$/Tests/CheckPalindromeTest.groovy" />
         <option value="$PROJECT_DIR$/src/CheckPalindrome.java" />
-        <option value="$PROJECT_DIR$/Tests/CheckPalindromeTest.java" />
         <option value="$PROJECT_DIR$/Tests/MemberTest.java" />
         <option value="$PROJECT_DIR$/src/MemberVariable.java" />
         <option value="$PROJECT_DIR$/src/ReadFile.java" />
         <option value="$PROJECT_DIR$/Tests/ReadFileTest.java" />
         <option value="$PROJECT_DIR$/Tests/PowerFourTest.java" />
+        <option value="$PROJECT_DIR$/Tests/CheckPalindromeTest.java" />
         <option value="$PROJECT_DIR$/src/Try.java" />
+        <option value="$PROJECT_DIR$/src/EvenNumTest.java" />
+        <option value="$PROJECT_DIR$/Tests/EvenNumTestTest.java" />
         <option value="$PROJECT_DIR$/src/PowerFour.java" />
       </list>
     </option>
@@ -218,7 +232,7 @@
     </panes>
   </component>
   <component name="PropertiesComponent">
-    <property name="com.android.tools.idea.instantapp.provision.ProvisionBeforeRunTaskProvider.myTimeStamp" value="1536906992323" />
+    <property name="com.android.tools.idea.instantapp.provision.ProvisionBeforeRunTaskProvider.myTimeStamp" value="1536908169977" />
     <property name="com.intellij.testIntegration.createTest.CreateTestDialog.defaultLibrary" value="JUnit4" />
     <property name="com.intellij.testIntegration.createTest.CreateTestDialog.defaultLibrarySuperClass.Groovy JUnit" value="groovy.util.GroovyTestCase" />
     <property name="com.intellij.testIntegration.createTest.CreateTestDialog.defaultLibrarySuperClass.JUnit4" value="" />
@@ -259,11 +273,29 @@
         <option name="Make" enabled="true" />
       </method>
     </configuration>
-    <configuration name="MemberTest.checkResults" type="JUnit" factoryName="JUnit" temporary="true" nameIsGenerated="true">
+    <configuration name="EvenNumTestTest" type="JUnit" factoryName="JUnit" temporary="true" nameIsGenerated="true">
       <module name="PractiseAssignment1(1)" />
       <option name="PACKAGE_NAME" value="" />
-      <option name="MAIN_CLASS_NAME" value="MemberTest" />
-      <option name="METHOD_NAME" value="checkResults" />
+      <option name="MAIN_CLASS_NAME" value="EvenNumTestTest" />
+      <method v="2">
+        <option name="Make" enabled="true" />
+      </method>
+    </configuration>
+    <configuration name="EvenNumTestTest.checkEvenforBigInteger" type="JUnit" factoryName="JUnit" temporary="true" nameIsGenerated="true">
+      <module name="PractiseAssignment1(1)" />
+      <option name="PACKAGE_NAME" value="" />
+      <option name="MAIN_CLASS_NAME" value="EvenNumTestTest" />
+      <option name="METHOD_NAME" value="checkEvenforBigInteger" />
+      <option name="TEST_OBJECT" value="method" />
+      <method v="2">
+        <option name="Make" enabled="true" />
+      </method>
+    </configuration>
+    <configuration name="EvenNumTestTest.checkEvenforString" type="JUnit" factoryName="JUnit" temporary="true" nameIsGenerated="true">
+      <module name="PractiseAssignment1(1)" />
+      <option name="PACKAGE_NAME" value="" />
+      <option name="MAIN_CLASS_NAME" value="EvenNumTestTest" />
+      <option name="METHOD_NAME" value="checkEvenforString" />
       <option name="TEST_OBJECT" value="method" />
       <method v="2">
         <option name="Make" enabled="true" />
@@ -279,40 +311,20 @@
         <option name="Make" enabled="true" />
       </method>
     </configuration>
-    <configuration name="PowerFourTest.testResultforString" type="JUnit" factoryName="JUnit" temporary="true" nameIsGenerated="true">
-      <module name="PractiseAssignment1(1)" />
-      <option name="PACKAGE_NAME" value="" />
-      <option name="MAIN_CLASS_NAME" value="PowerFourTest" />
-      <option name="METHOD_NAME" value="testResultforString" />
-      <option name="TEST_OBJECT" value="method" />
-      <method v="2">
-        <option name="Make" enabled="true" />
-      </method>
-    </configuration>
-    <configuration name="ReadFileTest.checkFileData" type="JUnit" factoryName="JUnit" temporary="true" nameIsGenerated="true">
-      <module name="PractiseAssignment1(1)" />
-      <option name="PACKAGE_NAME" value="" />
-      <option name="MAIN_CLASS_NAME" value="ReadFileTest" />
-      <option name="METHOD_NAME" value="checkFileData" />
-      <option name="TEST_OBJECT" value="method" />
-      <method v="2">
-        <option name="Make" enabled="true" />
-      </method>
-    </configuration>
     <list>
-      <item itemvalue="JUnit.MemberTest.checkResults" />
-      <item itemvalue="JUnit.ReadFileTest.checkFileData" />
-      <item itemvalue="JUnit.PowerFourTest.testResultforString" />
+      <item itemvalue="JUnit.EvenNumTestTest" />
+      <item itemvalue="JUnit.EvenNumTestTest.checkEvenforString" />
+      <item itemvalue="JUnit.EvenNumTestTest.checkEvenforBigInteger" />
       <item itemvalue="Application.Try" />
       <item itemvalue="JUnit.PowerFourTest.testResultforBigInteger" />
     </list>
     <recent_temporary>
       <list>
         <item itemvalue="JUnit.PowerFourTest.testResultforBigInteger" />
-        <item itemvalue="JUnit.PowerFourTest.testResultforString" />
+        <item itemvalue="JUnit.EvenNumTestTest.checkEvenforBigInteger" />
         <item itemvalue="Application.Try" />
-        <item itemvalue="JUnit.ReadFileTest.checkFileData" />
-        <item itemvalue="JUnit.MemberTest.checkResults" />
+        <item itemvalue="JUnit.EvenNumTestTest" />
+        <item itemvalue="JUnit.EvenNumTestTest.checkEvenforString" />
       </list>
     </recent_temporary>
   </component>
@@ -330,35 +342,35 @@
     <servers />
   </component>
   <component name="TestHistory">
-    <history-entry file="MemberTest_checkResults - 2018.09.14 at 11h 03m 01s.xml">
-      <configuration name="MemberTest.checkResults" configurationId="JUnit" />
+    <history-entry file="EvenNumTestTest_checkEvenforInteger - 2018.09.14 at 12h 20m 14s.xml">
+      <configuration name="EvenNumTestTest.checkEvenforInteger" configurationId="JUnit" />
     </history-entry>
-    <history-entry file="MemberTest_checkResults - 2018.09.14 at 11h 03m 33s.xml">
-      <configuration name="MemberTest.checkResults" configurationId="JUnit" />
+    <history-entry file="EvenNumTestTest - 2018.09.14 at 12h 20m 20s.xml">
+      <configuration name="EvenNumTestTest" configurationId="JUnit" />
     </history-entry>
-    <history-entry file="MemberTest_checkResults - 2018.09.14 at 11h 07m 54s.xml">
-      <configuration name="MemberTest.checkResults" configurationId="JUnit" />
+    <history-entry file="EvenNumTestTest_checkEvenforString - 2018.09.14 at 12h 20m 43s.xml">
+      <configuration name="EvenNumTestTest.checkEvenforString" configurationId="JUnit" />
     </history-entry>
-    <history-entry file="ReadFileTest_checkFileData - 2018.09.14 at 11h 24m 44s.xml">
-      <configuration name="ReadFileTest.checkFileData" configurationId="JUnit" />
+    <history-entry file="EvenNumTestTest_checkEvenforString - 2018.09.14 at 12h 21m 21s.xml">
+      <configuration name="EvenNumTestTest.checkEvenforString" configurationId="JUnit" />
     </history-entry>
-    <history-entry file="ReadFileTest_checkFileData - 2018.09.14 at 11h 25m 07s.xml">
-      <configuration name="ReadFileTest.checkFileData" configurationId="JUnit" />
+    <history-entry file="EvenNumTestTest - 2018.09.14 at 12h 21m 28s.xml">
+      <configuration name="EvenNumTestTest" configurationId="JUnit" />
     </history-entry>
-    <history-entry file="ReadFileTest_checkFileData - 2018.09.14 at 11h 26m 00s.xml">
-      <configuration name="ReadFileTest.checkFileData" configurationId="JUnit" />
+    <history-entry file="EvenNumTestTest_checkEvenforBigInteger - 2018.09.14 at 12h 22m 15s.xml">
+      <configuration name="EvenNumTestTest.checkEvenforBigInteger" configurationId="JUnit" />
     </history-entry>
-    <history-entry file="ReadFileTest_checkFileData - 2018.09.14 at 11h 26m 20s.xml">
-      <configuration name="ReadFileTest.checkFileData" configurationId="JUnit" />
+    <history-entry file="EvenNumTestTest_checkEvenforBigInteger - 2018.09.14 at 12h 22m 38s.xml">
+      <configuration name="EvenNumTestTest.checkEvenforBigInteger" configurationId="JUnit" />
     </history-entry>
-    <history-entry file="ReadFileTest_checkFileData - 2018.09.14 at 11h 26m 35s.xml">
-      <configuration name="ReadFileTest.checkFileData" configurationId="JUnit" />
+    <history-entry file="EvenNumTestTest - 2018.09.14 at 12h 22m 56s.xml">
+      <configuration name="EvenNumTestTest" configurationId="JUnit" />
     </history-entry>
-    <history-entry file="ReadFileTest_checkFileData - 2018.09.14 at 11h 27m 02s.xml">
-      <configuration name="ReadFileTest.checkFileData" configurationId="JUnit" />
+    <history-entry file="EvenNumTestTest_checkEvenforInteger - 2018.09.14 at 12h 23m 18s.xml">
+      <configuration name="EvenNumTestTest.checkEvenforInteger" configurationId="JUnit" />
     </history-entry>
-    <history-entry file="PowerFourTest_testResultforString - 2018.09.14 at 11h 34m 46s.xml">
-      <configuration name="PowerFourTest.testResultforString" configurationId="JUnit" />
+    <history-entry file="EvenNumTestTest_checkEvenforBigInteger - 2018.09.14 at 12h 24m 20s.xml">
+      <configuration name="EvenNumTestTest.checkEvenforBigInteger" configurationId="JUnit" />
     </history-entry>
   </component>
   <component name="ToolWindowManager">
@@ -375,7 +387,7 @@
       <window_info id="Favorites" order="7" side_tool="true" />
       <window_info anchor="bottom" id="Message" order="0" />
       <window_info anchor="bottom" id="Find" order="1" />
-      <window_info anchor="bottom" id="Run" order="2" weight="0.3283582" />
+      <window_info anchor="bottom" id="Run" order="2" visible="true" weight="0.3283582" />
       <window_info anchor="bottom" id="Debug" order="3" weight="0.39891452" />
       <window_info anchor="bottom" id="Cvs" order="4" weight="0.25" />
       <window_info anchor="bottom" id="Inspection" order="5" weight="0.4" />
@@ -431,9 +443,29 @@
       <breakpoints>
         <line-breakpoint enabled="true" type="java-line">
           <url>file://$PROJECT_DIR$/src/PowerFour.java</url>
-          <line>42</line>
+          <line>41</line>
           <properties />
           <option name="timeStamp" value="6" />
+        </line-breakpoint>
+        <line-breakpoint enabled="true" type="java-line">
+          <url>file://$PROJECT_DIR$/src/EvenNumTest.java</url>
+          <line>29</line>
+          <properties />
+          <option name="timeStamp" value="12" />
+        </line-breakpoint>
+        <line-breakpoint enabled="true" type="java-line">
+          <url>file://$PROJECT_DIR$/src/EvenNumTest.java</url>
+          <line>27</line>
+          <properties />
+          <option name="timeStamp" value="13" />
+        </line-breakpoint>
+        <line-breakpoint enabled="true" type="java-method">
+          <url>file://$PROJECT_DIR$/Tests/CheckPalindromeTest.java</url>
+          <line>16</line>
+          <properties class="CheckPalindromeTest" method="checkResultForPalindrome">
+            <option name="EMULATED" value="true" />
+          </properties>
+          <option name="timeStamp" value="11" />
         </line-breakpoint>
       </breakpoints>
     </breakpoint-manager>
@@ -467,13 +499,37 @@
         </state>
       </provider>
     </entry>
-    <entry file="file://$PROJECT_DIR$/Tests/CheckPalindromeTest.java">
+    <entry file="file://$PROJECT_DIR$/src/CheckPalindrome.java">
       <provider selected="true" editor-type-id="text-editor">
-        <state relative-caret-position="264">
-          <caret line="11" column="45" selection-start-line="11" selection-start-column="45" selection-end-line="11" selection-end-column="45" />
+        <state relative-caret-position="576">
+          <caret line="25" column="48" selection-start-line="25" selection-start-column="36" selection-end-line="25" selection-end-column="48" />
+        </state>
+      </provider>
+    </entry>
+    <entry file="file://$PROJECT_DIR$/Tests/PowerFourTest.java">
+      <provider selected="true" editor-type-id="text-editor">
+        <state relative-caret-position="359">
+          <caret line="35" column="56" selection-start-line="35" selection-start-column="56" selection-end-line="35" selection-end-column="56" />
           <folding>
             <element signature="imports" expanded="true" />
           </folding>
+        </state>
+      </provider>
+    </entry>
+    <entry file="file://$PROJECT_DIR$/Tests/CheckPalindromeTest.java">
+      <provider selected="true" editor-type-id="text-editor">
+        <state relative-caret-position="408">
+          <caret line="17" column="40" selection-start-line="17" selection-start-column="40" selection-end-line="17" selection-end-column="40" />
+          <folding>
+            <element signature="imports" expanded="true" />
+          </folding>
+        </state>
+      </provider>
+    </entry>
+    <entry file="file://$PROJECT_DIR$/src/ReadFile.java">
+      <provider selected="true" editor-type-id="text-editor">
+        <state relative-caret-position="559">
+          <caret line="29" column="59" selection-start-line="29" selection-start-column="59" selection-end-line="29" selection-end-column="59" />
         </state>
       </provider>
     </entry>
@@ -487,41 +543,34 @@
         </state>
       </provider>
     </entry>
-    <entry file="file://$PROJECT_DIR$/src/CheckPalindrome.java">
-      <provider selected="true" editor-type-id="text-editor">
-        <state relative-caret-position="576">
-          <caret line="25" column="48" selection-start-line="25" selection-start-column="36" selection-end-line="25" selection-end-column="48" />
-        </state>
-      </provider>
-    </entry>
-    <entry file="file://$PROJECT_DIR$/src/ReadFile.java">
-      <provider selected="true" editor-type-id="text-editor">
-        <state relative-caret-position="559">
-          <caret line="29" column="59" selection-start-line="29" selection-start-column="59" selection-end-line="29" selection-end-column="59" />
-        </state>
-      </provider>
-    </entry>
     <entry file="file://$PROJECT_DIR$/src/Try.java">
       <provider selected="true" editor-type-id="text-editor">
-        <state relative-caret-position="48">
-          <caret line="2" selection-start-line="2" selection-end-line="2" />
+        <state relative-caret-position="192">
+          <caret line="8" lean-forward="true" selection-start-line="8" selection-end-line="8" />
         </state>
       </provider>
     </entry>
-    <entry file="file://$PROJECT_DIR$/src/PowerFour.java">
+    <entry file="file://$PROJECT_DIR$/src/EvenNumTest.java">
       <provider selected="true" editor-type-id="text-editor">
-        <state relative-caret-position="498">
-          <caret line="33" column="12" selection-start-line="33" selection-start-column="12" selection-end-line="33" selection-end-column="12" />
+        <state relative-caret-position="147">
+          <caret line="18" column="45" selection-start-line="18" selection-start-column="45" selection-end-line="18" selection-end-column="45" />
+        </state>
+      </provider>
+    </entry>
+    <entry file="file://$PROJECT_DIR$/Tests/EvenNumTestTest.java">
+      <provider selected="true" editor-type-id="text-editor">
+        <state relative-caret-position="335">
+          <caret line="37" column="121" selection-start-line="37" selection-start-column="121" selection-end-line="37" selection-end-column="121" />
           <folding>
             <element signature="imports" expanded="true" />
           </folding>
         </state>
       </provider>
     </entry>
-    <entry file="file://$PROJECT_DIR$/Tests/PowerFourTest.java">
+    <entry file="file://$PROJECT_DIR$/src/PowerFour.java">
       <provider selected="true" editor-type-id="text-editor">
-        <state relative-caret-position="76">
-          <caret line="14" column="41" selection-start-line="14" selection-start-column="41" selection-end-line="14" selection-end-column="41" />
+        <state relative-caret-position="258">
+          <caret line="20" column="8" selection-start-line="20" selection-start-column="8" selection-end-line="20" selection-end-column="8" />
           <folding>
             <element signature="imports" expanded="true" />
           </folding>
