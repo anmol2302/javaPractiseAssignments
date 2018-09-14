@@ -7,7 +7,7 @@ public class ReadFileTest {
     @Test
     public void checkFileData(){
 
-        //assertEquals("19\nHELLO EVERYONE!!!!",ob.readFile("Sample.txt"));
+        assertEquals("19\nHELLO EVERYONE!!!!",ob.readFile("Sample.txt"));
         assertEquals("0\nnull",ob.readFile("Unknown.txt"));
     }
 

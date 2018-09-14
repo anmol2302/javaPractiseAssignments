@@ -2,9 +2,10 @@
 <project version="4">
   <component name="ChangeListManager">
     <list default="true" id="c2990ae8-37d9-4e1c-828f-dede86174823" name="Default Changelist" comment="">
-      <change afterPath="$PROJECT_DIR$/Tests/ReadFileTest.java" afterDir="false" />
-      <change afterPath="$PROJECT_DIR$/src/ReadFile.java" afterDir="false" />
-      <change beforePath="$PROJECT_DIR$/.idea/workspace.xml" beforeDir="false" afterPath="$PROJECT_DIR$/.idea/workspace.xml" afterDir="false" />
+      <change beforePath="$PROJECT_DIR$/Tests/PowerFourTest.java" beforeDir="false" afterPath="$PROJECT_DIR$/Tests/PowerFourTest.java" afterDir="false" />
+      <change beforePath="$PROJECT_DIR$/Tests/ReadFileTest.java" beforeDir="false" afterPath="$PROJECT_DIR$/Tests/ReadFileTest.java" afterDir="false" />
+      <change beforePath="$PROJECT_DIR$/src/PowerFour.java" beforeDir="false" afterPath="$PROJECT_DIR$/src/PowerFour.java" afterDir="false" />
+      <change beforePath="$PROJECT_DIR$/src/Try.java" beforeDir="false" afterPath="$PROJECT_DIR$/src/Try.java" afterDir="false" />
     </list>
     <ignored path="$PROJECT_DIR$/out/" />
     <option name="EXCLUDED_CONVERTED_TO_IGNORED" value="true" />
@@ -39,13 +40,13 @@
       <usages-collector id="statistics.file.extensions.edit">
         <counts>
           <entry key="groovy" value="7" />
-          <entry key="java" value="2962" />
+          <entry key="java" value="3207" />
         </counts>
       </usages-collector>
       <usages-collector id="statistics.file.types.edit">
         <counts>
           <entry key="Groovy" value="7" />
-          <entry key="JAVA" value="2962" />
+          <entry key="JAVA" value="3207" />
         </counts>
       </usages-collector>
     </session>
@@ -55,7 +56,7 @@
       <file pinned="false" current-in-tab="false">
         <entry file="file://$PROJECT_DIR$/src/CheckPalindrome.java">
           <provider selected="true" editor-type-id="text-editor">
-            <state relative-caret-position="219">
+            <state relative-caret-position="576">
               <caret line="25" column="48" selection-start-line="25" selection-start-column="36" selection-end-line="25" selection-end-column="48" />
             </state>
           </provider>
@@ -64,8 +65,8 @@
       <file pinned="false" current-in-tab="false">
         <entry file="file://$PROJECT_DIR$/src/PowerFour.java">
           <provider selected="true" editor-type-id="text-editor">
-            <state relative-caret-position="96">
-              <caret line="4" column="8" selection-start-line="4" selection-end-line="5" />
+            <state relative-caret-position="498">
+              <caret line="33" column="12" selection-start-line="33" selection-start-column="12" selection-end-line="33" selection-end-column="12" />
               <folding>
                 <element signature="imports" expanded="true" />
               </folding>
@@ -73,11 +74,11 @@
           </provider>
         </entry>
       </file>
-      <file pinned="false" current-in-tab="false">
+      <file pinned="false" current-in-tab="true">
         <entry file="file://$PROJECT_DIR$/Tests/PowerFourTest.java">
           <provider selected="true" editor-type-id="text-editor">
-            <state relative-caret-position="696">
-              <caret line="29" column="5" lean-forward="true" selection-start-line="29" selection-start-column="5" selection-end-line="29" selection-end-column="5" />
+            <state relative-caret-position="76">
+              <caret line="14" column="41" selection-start-line="14" selection-start-column="41" selection-end-line="14" selection-end-column="41" />
               <folding>
                 <element signature="imports" expanded="true" />
               </folding>
@@ -106,11 +107,11 @@
           </provider>
         </entry>
       </file>
-      <file pinned="false" current-in-tab="true">
+      <file pinned="false" current-in-tab="false">
         <entry file="file://$PROJECT_DIR$/Tests/ReadFileTest.java">
           <provider selected="true" editor-type-id="text-editor">
-            <state relative-caret-position="240">
-              <caret line="10" column="29" selection-start-line="10" selection-start-column="29" selection-end-line="10" selection-end-column="29" />
+            <state relative-caret-position="216">
+              <caret line="9" column="8" selection-start-line="9" selection-start-column="8" selection-end-line="9" selection-end-column="8" />
               <folding>
                 <element signature="imports" expanded="true" />
               </folding>
@@ -148,8 +149,8 @@
       <file pinned="false" current-in-tab="false">
         <entry file="file://$PROJECT_DIR$/src/Try.java">
           <provider selected="true" editor-type-id="text-editor">
-            <state relative-caret-position="96">
-              <caret line="4" column="13" selection-start-line="4" selection-start-column="13" selection-end-line="4" selection-end-column="13" />
+            <state relative-caret-position="48">
+              <caret line="2" selection-start-line="2" selection-end-line="2" />
             </state>
           </provider>
         </entry>
@@ -171,15 +172,15 @@
     <option name="CHANGED_PATHS">
       <list>
         <option value="$PROJECT_DIR$/Tests/CheckPalindromeTest.groovy" />
-        <option value="$PROJECT_DIR$/src/Try.java" />
         <option value="$PROJECT_DIR$/src/CheckPalindrome.java" />
-        <option value="$PROJECT_DIR$/src/PowerFour.java" />
-        <option value="$PROJECT_DIR$/Tests/PowerFourTest.java" />
         <option value="$PROJECT_DIR$/Tests/CheckPalindromeTest.java" />
         <option value="$PROJECT_DIR$/Tests/MemberTest.java" />
         <option value="$PROJECT_DIR$/src/MemberVariable.java" />
         <option value="$PROJECT_DIR$/src/ReadFile.java" />
         <option value="$PROJECT_DIR$/Tests/ReadFileTest.java" />
+        <option value="$PROJECT_DIR$/Tests/PowerFourTest.java" />
+        <option value="$PROJECT_DIR$/src/Try.java" />
+        <option value="$PROJECT_DIR$/src/PowerFour.java" />
       </list>
     </option>
   </component>
@@ -217,7 +218,7 @@
     </panes>
   </component>
   <component name="PropertiesComponent">
-    <property name="com.android.tools.idea.instantapp.provision.ProvisionBeforeRunTaskProvider.myTimeStamp" value="1536904618402" />
+    <property name="com.android.tools.idea.instantapp.provision.ProvisionBeforeRunTaskProvider.myTimeStamp" value="1536906992323" />
     <property name="com.intellij.testIntegration.createTest.CreateTestDialog.defaultLibrary" value="JUnit4" />
     <property name="com.intellij.testIntegration.createTest.CreateTestDialog.defaultLibrarySuperClass.Groovy JUnit" value="groovy.util.GroovyTestCase" />
     <property name="com.intellij.testIntegration.createTest.CreateTestDialog.defaultLibrarySuperClass.JUnit4" value="" />
@@ -250,20 +251,10 @@
       </list>
     </option>
   </component>
-  <component name="RunManager" selected="JUnit.ReadFileTest.checkFileData">
-    <configuration name="MemberVariable" type="Application" factoryName="Application" temporary="true" nameIsGenerated="true">
-      <option name="MAIN_CLASS_NAME" value="MemberVariable" />
+  <component name="RunManager" selected="JUnit.PowerFourTest.testResultforBigInteger">
+    <configuration name="Try" type="Application" factoryName="Application" temporary="true" nameIsGenerated="true">
+      <option name="MAIN_CLASS_NAME" value="Try" />
       <module name="PractiseAssignment1(1)" />
-      <method v="2">
-        <option name="Make" enabled="true" />
-      </method>
-    </configuration>
-    <configuration name="CheckPalindromeTest.CheckResultForREverseNUmber" type="JUnit" factoryName="JUnit" temporary="true" nameIsGenerated="true">
-      <module name="PractiseAssignment1(1)" />
-      <option name="PACKAGE_NAME" value="" />
-      <option name="MAIN_CLASS_NAME" value="CheckPalindromeTest" />
-      <option name="METHOD_NAME" value="CheckResultForREverseNUmber" />
-      <option name="TEST_OBJECT" value="method" />
       <method v="2">
         <option name="Make" enabled="true" />
       </method>
@@ -278,10 +269,22 @@
         <option name="Make" enabled="true" />
       </method>
     </configuration>
-    <configuration name="PowerFourTest" type="JUnit" factoryName="JUnit" temporary="true" nameIsGenerated="true">
+    <configuration name="PowerFourTest.testResultforBigInteger" type="JUnit" factoryName="JUnit" temporary="true" nameIsGenerated="true">
       <module name="PractiseAssignment1(1)" />
       <option name="PACKAGE_NAME" value="" />
       <option name="MAIN_CLASS_NAME" value="PowerFourTest" />
+      <option name="METHOD_NAME" value="testResultforBigInteger" />
+      <option name="TEST_OBJECT" value="method" />
+      <method v="2">
+        <option name="Make" enabled="true" />
+      </method>
+    </configuration>
+    <configuration name="PowerFourTest.testResultforString" type="JUnit" factoryName="JUnit" temporary="true" nameIsGenerated="true">
+      <module name="PractiseAssignment1(1)" />
+      <option name="PACKAGE_NAME" value="" />
+      <option name="MAIN_CLASS_NAME" value="PowerFourTest" />
+      <option name="METHOD_NAME" value="testResultforString" />
+      <option name="TEST_OBJECT" value="method" />
       <method v="2">
         <option name="Make" enabled="true" />
       </method>
@@ -297,19 +300,19 @@
       </method>
     </configuration>
     <list>
-      <item itemvalue="JUnit.CheckPalindromeTest.CheckResultForREverseNUmber" />
-      <item itemvalue="JUnit.PowerFourTest" />
-      <item itemvalue="Application.MemberVariable" />
       <item itemvalue="JUnit.MemberTest.checkResults" />
       <item itemvalue="JUnit.ReadFileTest.checkFileData" />
+      <item itemvalue="JUnit.PowerFourTest.testResultforString" />
+      <item itemvalue="Application.Try" />
+      <item itemvalue="JUnit.PowerFourTest.testResultforBigInteger" />
     </list>
     <recent_temporary>
       <list>
+        <item itemvalue="JUnit.PowerFourTest.testResultforBigInteger" />
+        <item itemvalue="JUnit.PowerFourTest.testResultforString" />
+        <item itemvalue="Application.Try" />
         <item itemvalue="JUnit.ReadFileTest.checkFileData" />
         <item itemvalue="JUnit.MemberTest.checkResults" />
-        <item itemvalue="Application.MemberVariable" />
-        <item itemvalue="JUnit.CheckPalindromeTest.CheckResultForREverseNUmber" />
-        <item itemvalue="JUnit.PowerFourTest" />
       </list>
     </recent_temporary>
   </component>
@@ -327,9 +330,6 @@
     <servers />
   </component>
   <component name="TestHistory">
-    <history-entry file="CheckPalindromeTest_CheckResultForREverseNUmber - 2018.09.14 at 10h 40m 58s.xml">
-      <configuration name="CheckPalindromeTest.CheckResultForREverseNUmber" configurationId="JUnit" />
-    </history-entry>
     <history-entry file="MemberTest_checkResults - 2018.09.14 at 11h 03m 01s.xml">
       <configuration name="MemberTest.checkResults" configurationId="JUnit" />
     </history-entry>
@@ -357,12 +357,15 @@
     <history-entry file="ReadFileTest_checkFileData - 2018.09.14 at 11h 27m 02s.xml">
       <configuration name="ReadFileTest.checkFileData" configurationId="JUnit" />
     </history-entry>
+    <history-entry file="PowerFourTest_testResultforString - 2018.09.14 at 11h 34m 46s.xml">
+      <configuration name="PowerFourTest.testResultforString" configurationId="JUnit" />
+    </history-entry>
   </component>
   <component name="ToolWindowManager">
     <frame x="67" y="27" width="1533" height="873" extended-state="6" />
     <editor active="true" />
     <layout>
-      <window_info content_ui="combo" id="Project" order="0" visible="true" weight="0.037659716" />
+      <window_info active="true" content_ui="combo" id="Project" order="0" visible="true" weight="0.17081372" />
       <window_info id="Structure" order="1" side_tool="true" weight="0.25" />
       <window_info id="Designer" order="2" />
       <window_info id="Image Layers" order="3" />
@@ -372,7 +375,7 @@
       <window_info id="Favorites" order="7" side_tool="true" />
       <window_info anchor="bottom" id="Message" order="0" />
       <window_info anchor="bottom" id="Find" order="1" />
-      <window_info active="true" anchor="bottom" id="Run" order="2" visible="true" weight="0.3283582" />
+      <window_info anchor="bottom" id="Run" order="2" weight="0.3283582" />
       <window_info anchor="bottom" id="Debug" order="3" weight="0.39891452" />
       <window_info anchor="bottom" id="Cvs" order="4" weight="0.25" />
       <window_info anchor="bottom" id="Inspection" order="5" weight="0.4" />
@@ -388,7 +391,7 @@
       <window_info anchor="right" id="Capture Analysis" order="4" />
       <window_info anchor="right" id="Theme Preview" order="5" />
       <window_info anchor="right" id="Palette&#9;" order="6" />
-      <window_info anchor="right" id="Ant Build" order="7" weight="0.24949563" />
+      <window_info anchor="right" id="Ant Build" order="7" visible="true" weight="0.098184265" />
     </layout>
     <layout-to-restore>
       <window_info active="true" content_ui="combo" id="Project" order="0" visible="true" weight="0.07464694" />
@@ -428,7 +431,7 @@
       <breakpoints>
         <line-breakpoint enabled="true" type="java-line">
           <url>file://$PROJECT_DIR$/src/PowerFour.java</url>
-          <line>31</line>
+          <line>42</line>
           <properties />
           <option name="timeStamp" value="6" />
         </line-breakpoint>
@@ -441,40 +444,6 @@
   </component>
   <component name="editorHistoryManager">
     <entry file="file://$PROJECT_DIR$/Tests/CheckPalindromeTest.groovy" />
-    <entry file="file://$PROJECT_DIR$/src/CheckPalindrome.java">
-      <provider selected="true" editor-type-id="text-editor">
-        <state relative-caret-position="219">
-          <caret line="25" column="48" selection-start-line="25" selection-start-column="36" selection-end-line="25" selection-end-column="48" />
-        </state>
-      </provider>
-    </entry>
-    <entry file="file://$PROJECT_DIR$/src/PowerFour.java">
-      <provider selected="true" editor-type-id="text-editor">
-        <state relative-caret-position="96">
-          <caret line="4" column="8" selection-start-line="4" selection-end-line="5" />
-          <folding>
-            <element signature="imports" expanded="true" />
-          </folding>
-        </state>
-      </provider>
-    </entry>
-    <entry file="file://$PROJECT_DIR$/src/Try.java">
-      <provider selected="true" editor-type-id="text-editor">
-        <state relative-caret-position="96">
-          <caret line="4" column="13" selection-start-line="4" selection-start-column="13" selection-end-line="4" selection-end-column="13" />
-        </state>
-      </provider>
-    </entry>
-    <entry file="file://$PROJECT_DIR$/Tests/PowerFourTest.java">
-      <provider selected="true" editor-type-id="text-editor">
-        <state relative-caret-position="696">
-          <caret line="29" column="5" lean-forward="true" selection-start-line="29" selection-start-column="5" selection-end-line="29" selection-end-column="5" />
-          <folding>
-            <element signature="imports" expanded="true" />
-          </folding>
-        </state>
-      </provider>
-    </entry>
     <entry file="file://$PROJECT_DIR$/Tests/MemberTest.java">
       <provider selected="true" editor-type-id="text-editor">
         <state relative-caret-position="168">
@@ -508,6 +477,23 @@
         </state>
       </provider>
     </entry>
+    <entry file="file://$PROJECT_DIR$/Tests/ReadFileTest.java">
+      <provider selected="true" editor-type-id="text-editor">
+        <state relative-caret-position="216">
+          <caret line="9" column="8" selection-start-line="9" selection-start-column="8" selection-end-line="9" selection-end-column="8" />
+          <folding>
+            <element signature="imports" expanded="true" />
+          </folding>
+        </state>
+      </provider>
+    </entry>
+    <entry file="file://$PROJECT_DIR$/src/CheckPalindrome.java">
+      <provider selected="true" editor-type-id="text-editor">
+        <state relative-caret-position="576">
+          <caret line="25" column="48" selection-start-line="25" selection-start-column="36" selection-end-line="25" selection-end-column="48" />
+        </state>
+      </provider>
+    </entry>
     <entry file="file://$PROJECT_DIR$/src/ReadFile.java">
       <provider selected="true" editor-type-id="text-editor">
         <state relative-caret-position="559">
@@ -515,10 +501,27 @@
         </state>
       </provider>
     </entry>
-    <entry file="file://$PROJECT_DIR$/Tests/ReadFileTest.java">
+    <entry file="file://$PROJECT_DIR$/src/Try.java">
       <provider selected="true" editor-type-id="text-editor">
-        <state relative-caret-position="240">
-          <caret line="10" column="29" selection-start-line="10" selection-start-column="29" selection-end-line="10" selection-end-column="29" />
+        <state relative-caret-position="48">
+          <caret line="2" selection-start-line="2" selection-end-line="2" />
+        </state>
+      </provider>
+    </entry>
+    <entry file="file://$PROJECT_DIR$/src/PowerFour.java">
+      <provider selected="true" editor-type-id="text-editor">
+        <state relative-caret-position="498">
+          <caret line="33" column="12" selection-start-line="33" selection-start-column="12" selection-end-line="33" selection-end-column="12" />
+          <folding>
+            <element signature="imports" expanded="true" />
+          </folding>
+        </state>
+      </provider>
+    </entry>
+    <entry file="file://$PROJECT_DIR$/Tests/PowerFourTest.java">
+      <provider selected="true" editor-type-id="text-editor">
+        <state relative-caret-position="76">
+          <caret line="14" column="41" selection-start-line="14" selection-start-column="41" selection-end-line="14" selection-end-column="41" />
           <folding>
             <element signature="imports" expanded="true" />
           </folding>

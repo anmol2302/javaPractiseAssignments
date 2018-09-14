@@ -12,9 +12,9 @@ public class PowerFourTest {
     public void testResultforString() {
 
 
-        assertEquals(true, ob.retValue("16"));
-        assertEquals(true, ob.retValue("256"));
-        assertEquals(false, ob.retValue("32"));
+        assertEquals(true, ob.retValue("-16"));
+       // assertEquals(true, ob.retValue("256"));
+        //assertEquals(false, ob.retValue("32"));
 
     }
 
@@ -33,7 +33,7 @@ public class PowerFourTest {
     public void testResultforBigInteger() {
 
 
-        assertEquals(true, ob.retValue(new BigInteger("1099511627776")));
+        assertEquals(true, ob.retValue(new BigInteger("-1099511627776")));
         assertEquals(false, ob.retValue(new BigInteger("109951162746")));
         assertEquals(false, ob.retValue(new BigInteger("10995116223365386")));
 
