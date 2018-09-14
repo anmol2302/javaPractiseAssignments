@@ -44,6 +44,14 @@ public class CheckPalindrome {
                         }
                     }
                 }
+                else if(num instanceof Integer){
+                    BigInteger intnum=new BigInteger(""+num);
+                    BigInteger revNUmber = reverseNumber(intnum);
+                    if (intnum.compareTo(revNUmber) == 0) {
+                        return true;
+                    }
+                }
+
 
             } catch (Exception e) {
 
