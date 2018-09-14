@@ -2,14 +2,9 @@
 <project version="4">
   <component name="ChangeListManager">
     <list default="true" id="c2990ae8-37d9-4e1c-828f-dede86174823" name="Default Changelist" comment="">
-      <change afterPath="$PROJECT_DIR$/Tests/PowerFourTest.java" afterDir="false" />
-      <change afterPath="$PROJECT_DIR$/src/PowerFour.java" afterDir="false" />
-      <change afterPath="$PROJECT_DIR$/src/Try.java" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/Tests/MemberTest.java" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/src/MemberVariable.java" afterDir="false" />
       <change beforePath="$PROJECT_DIR$/.idea/workspace.xml" beforeDir="false" afterPath="$PROJECT_DIR$/.idea/workspace.xml" afterDir="false" />
-      <change beforePath="$PROJECT_DIR$/Tests/CheckPalindromeTest.java" beforeDir="false" afterPath="$PROJECT_DIR$/Tests/CheckPalindromeTest.java" afterDir="false" />
-      <change beforePath="$PROJECT_DIR$/out/production/PractiseAssignment1(1)/CheckPalindrome.class" beforeDir="false" afterPath="$PROJECT_DIR$/out/production/PractiseAssignment1(1)/CheckPalindrome.class" afterDir="false" />
-      <change beforePath="$PROJECT_DIR$/out/test/PractiseAssignment1(1)/CheckPalindromeTest.class" beforeDir="false" afterPath="$PROJECT_DIR$/out/test/PractiseAssignment1(1)/CheckPalindromeTest.class" afterDir="false" />
-      <change beforePath="$PROJECT_DIR$/src/CheckPalindrome.java" beforeDir="false" afterPath="$PROJECT_DIR$/src/CheckPalindrome.java" afterDir="false" />
     </list>
     <ignored path="$PROJECT_DIR$/out/" />
     <option name="EXCLUDED_CONVERTED_TO_IGNORED" value="true" />
@@ -32,25 +27,25 @@
       <usages-collector id="statistics.file.extensions.open">
         <counts>
           <entry key="groovy" value="1" />
-          <entry key="java" value="6" />
+          <entry key="java" value="8" />
         </counts>
       </usages-collector>
       <usages-collector id="statistics.file.types.open">
         <counts>
           <entry key="Groovy" value="1" />
-          <entry key="JAVA" value="6" />
+          <entry key="JAVA" value="8" />
         </counts>
       </usages-collector>
       <usages-collector id="statistics.file.extensions.edit">
         <counts>
           <entry key="groovy" value="7" />
-          <entry key="java" value="1648" />
+          <entry key="java" value="2472" />
         </counts>
       </usages-collector>
       <usages-collector id="statistics.file.types.edit">
         <counts>
           <entry key="Groovy" value="7" />
-          <entry key="JAVA" value="1648" />
+          <entry key="JAVA" value="2472" />
         </counts>
       </usages-collector>
     </session>
@@ -78,11 +73,11 @@
           </provider>
         </entry>
       </file>
-      <file pinned="false" current-in-tab="true">
+      <file pinned="false" current-in-tab="false">
         <entry file="file://$PROJECT_DIR$/Tests/PowerFourTest.java">
           <provider selected="true" editor-type-id="text-editor">
-            <state relative-caret-position="535">
-              <caret line="35" column="68" selection-start-line="35" selection-start-column="68" selection-end-line="35" selection-end-column="68" />
+            <state relative-caret-position="696">
+              <caret line="29" column="5" lean-forward="true" selection-start-line="29" selection-start-column="5" selection-end-line="29" selection-end-column="5" />
               <folding>
                 <element signature="imports" expanded="true" />
               </folding>
@@ -93,8 +88,35 @@
       <file pinned="false" current-in-tab="false">
         <entry file="file://$PROJECT_DIR$/Tests/CheckPalindromeTest.java">
           <provider selected="true" editor-type-id="text-editor">
-            <state relative-caret-position="240">
-              <caret line="10" column="75" selection-start-line="10" selection-start-column="75" selection-end-line="10" selection-end-column="75" />
+            <state relative-caret-position="264">
+              <caret line="11" column="45" selection-start-line="11" selection-start-column="45" selection-end-line="11" selection-end-column="45" />
+              <folding>
+                <element signature="imports" expanded="true" />
+              </folding>
+            </state>
+          </provider>
+        </entry>
+      </file>
+      <file pinned="false" current-in-tab="false">
+        <entry file="file://$PROJECT_DIR$/src/MemberVariable.java">
+          <provider selected="true" editor-type-id="text-editor">
+            <state relative-caret-position="395">
+              <caret line="41" lean-forward="true" selection-start-line="41" selection-end-line="41" />
+              <folding>
+                <element signature="e#354#355#0" expanded="true" />
+                <element signature="e#388#389#0" expanded="true" />
+                <element signature="e#422#423#0" expanded="true" />
+                <element signature="e#455#456#0" expanded="true" />
+              </folding>
+            </state>
+          </provider>
+        </entry>
+      </file>
+      <file pinned="false" current-in-tab="true">
+        <entry file="file://$PROJECT_DIR$/Tests/MemberTest.java">
+          <provider selected="true" editor-type-id="text-editor">
+            <state relative-caret-position="168">
+              <caret line="7" column="73" selection-start-line="7" selection-start-column="73" selection-end-line="7" selection-end-column="73" />
               <folding>
                 <element signature="imports" expanded="true" />
               </folding>
@@ -129,10 +151,12 @@
       <list>
         <option value="$PROJECT_DIR$/Tests/CheckPalindromeTest.groovy" />
         <option value="$PROJECT_DIR$/src/Try.java" />
-        <option value="$PROJECT_DIR$/Tests/CheckPalindromeTest.java" />
         <option value="$PROJECT_DIR$/src/CheckPalindrome.java" />
         <option value="$PROJECT_DIR$/src/PowerFour.java" />
         <option value="$PROJECT_DIR$/Tests/PowerFourTest.java" />
+        <option value="$PROJECT_DIR$/Tests/CheckPalindromeTest.java" />
+        <option value="$PROJECT_DIR$/Tests/MemberTest.java" />
+        <option value="$PROJECT_DIR$/src/MemberVariable.java" />
       </list>
     </option>
   </component>
@@ -170,7 +194,7 @@
     </panes>
   </component>
   <component name="PropertiesComponent">
-    <property name="com.android.tools.idea.instantapp.provision.ProvisionBeforeRunTaskProvider.myTimeStamp" value="1536901854713" />
+    <property name="com.android.tools.idea.instantapp.provision.ProvisionBeforeRunTaskProvider.myTimeStamp" value="1536903471609" />
     <property name="com.intellij.testIntegration.createTest.CreateTestDialog.defaultLibrary" value="JUnit4" />
     <property name="com.intellij.testIntegration.createTest.CreateTestDialog.defaultLibrarySuperClass.Groovy JUnit" value="groovy.util.GroovyTestCase" />
     <property name="com.intellij.testIntegration.createTest.CreateTestDialog.defaultLibrarySuperClass.JUnit4" value="" />
@@ -203,9 +227,9 @@
       </list>
     </option>
   </component>
-  <component name="RunManager" selected="JUnit.CheckPalindromeTest.CheckResultForREverseNUmber">
-    <configuration name="PowerFour" type="Application" factoryName="Application" temporary="true" nameIsGenerated="true">
-      <option name="MAIN_CLASS_NAME" value="PowerFour" />
+  <component name="RunManager" selected="JUnit.MemberTest.checkResults">
+    <configuration name="MemberVariable" type="Application" factoryName="Application" temporary="true" nameIsGenerated="true">
+      <option name="MAIN_CLASS_NAME" value="MemberVariable" />
       <module name="PractiseAssignment1(1)" />
       <method v="2">
         <option name="Make" enabled="true" />
@@ -221,11 +245,11 @@
         <option name="Make" enabled="true" />
       </method>
     </configuration>
-    <configuration name="CheckPalindromeTest.checkResultForPalindrome" type="JUnit" factoryName="JUnit" temporary="true" nameIsGenerated="true">
+    <configuration name="MemberTest.checkResults" type="JUnit" factoryName="JUnit" temporary="true" nameIsGenerated="true">
       <module name="PractiseAssignment1(1)" />
       <option name="PACKAGE_NAME" value="" />
-      <option name="MAIN_CLASS_NAME" value="CheckPalindromeTest" />
-      <option name="METHOD_NAME" value="checkResultForPalindrome" />
+      <option name="MAIN_CLASS_NAME" value="MemberTest" />
+      <option name="METHOD_NAME" value="checkResults" />
       <option name="TEST_OBJECT" value="method" />
       <method v="2">
         <option name="Make" enabled="true" />
@@ -250,19 +274,19 @@
       </method>
     </configuration>
     <list>
-      <item itemvalue="JUnit.CheckPalindromeTest.checkResultForPalindrome" />
       <item itemvalue="JUnit.CheckPalindromeTest.CheckResultForREverseNUmber" />
-      <item itemvalue="Application.PowerFour" />
       <item itemvalue="JUnit.PowerFourTest.testResultforBigInteger" />
       <item itemvalue="JUnit.PowerFourTest" />
+      <item itemvalue="Application.MemberVariable" />
+      <item itemvalue="JUnit.MemberTest.checkResults" />
     </list>
     <recent_temporary>
       <list>
+        <item itemvalue="JUnit.MemberTest.checkResults" />
+        <item itemvalue="Application.MemberVariable" />
         <item itemvalue="JUnit.CheckPalindromeTest.CheckResultForREverseNUmber" />
         <item itemvalue="JUnit.PowerFourTest" />
         <item itemvalue="JUnit.PowerFourTest.testResultforBigInteger" />
-        <item itemvalue="Application.PowerFour" />
-        <item itemvalue="JUnit.CheckPalindromeTest.checkResultForPalindrome" />
       </list>
     </recent_temporary>
   </component>
@@ -280,35 +304,35 @@
     <servers />
   </component>
   <component name="TestHistory">
-    <history-entry file="CheckPalindromeTest_checkResultForPalindrome - 2018.09.10 at 16h 56m 53s.xml">
-      <configuration name="CheckPalindromeTest.checkResultForPalindrome" configurationId="JUnit" />
+    <history-entry file="PowerFourTest_testResultforBigInteger - 2018.09.14 at 10h 37m 59s.xml">
+      <configuration name="PowerFourTest.testResultforBigInteger" configurationId="JUnit" />
     </history-entry>
-    <history-entry file="CheckPalindromeTest_checkResultForPalindrome - 2018.09.10 at 18h 08m 11s.xml">
-      <configuration name="CheckPalindromeTest.checkResultForPalindrome" configurationId="JUnit" />
+    <history-entry file="PowerFourTest_testResultforBigInteger - 2018.09.14 at 10h 38m 48s.xml">
+      <configuration name="PowerFourTest.testResultforBigInteger" configurationId="JUnit" />
     </history-entry>
-    <history-entry file="CheckPalindromeTest_checkResultForPalindrome - 2018.09.10 at 18h 08m 34s.xml">
-      <configuration name="CheckPalindromeTest.checkResultForPalindrome" configurationId="JUnit" />
+    <history-entry file="PowerFourTest_testResultforBigInteger - 2018.09.14 at 10h 38m 55s.xml">
+      <configuration name="PowerFourTest.testResultforBigInteger" configurationId="JUnit" />
     </history-entry>
-    <history-entry file="CheckPalindromeTest_checkResultForPalindrome - 2018.09.10 at 18h 09m 01s.xml">
-      <configuration name="CheckPalindromeTest.checkResultForPalindrome" configurationId="JUnit" />
+    <history-entry file="PowerFourTest_testResultforBigInteger - 2018.09.14 at 10h 39m 01s.xml">
+      <configuration name="PowerFourTest.testResultforBigInteger" configurationId="JUnit" />
     </history-entry>
-    <history-entry file="CheckPalindromeTest_checkResultForPalindrome - 2018.09.10 at 18h 12m 04s.xml">
-      <configuration name="CheckPalindromeTest.checkResultForPalindrome" configurationId="JUnit" />
+    <history-entry file="PowerFourTest - 2018.09.14 at 10h 39m 23s.xml">
+      <configuration name="PowerFourTest" configurationId="JUnit" />
     </history-entry>
-    <history-entry file="CheckPalindromeTest_checkResultForPalindrome - 2018.09.11 at 09h 31m 21s.xml">
-      <configuration name="CheckPalindromeTest.checkResultForPalindrome" configurationId="JUnit" />
+    <history-entry file="PowerFourTest - 2018.09.14 at 10h 39m 54s.xml">
+      <configuration name="PowerFourTest" configurationId="JUnit" />
     </history-entry>
-    <history-entry file="CheckPalindromeTest_checkResultForPalindrome - 2018.09.11 at 09h 31m 39s.xml">
-      <configuration name="CheckPalindromeTest.checkResultForPalindrome" configurationId="JUnit" />
+    <history-entry file="PowerFourTest - 2018.09.14 at 10h 40m 07s.xml">
+      <configuration name="PowerFourTest" configurationId="JUnit" />
     </history-entry>
-    <history-entry file="CheckPalindromeTest_checkResultForPalindrome - 2018.09.11 at 09h 41m 24s.xml">
-      <configuration name="CheckPalindromeTest.checkResultForPalindrome" configurationId="JUnit" />
-    </history-entry>
-    <history-entry file="CheckPalindromeTest_checkResultForPalindrome - 2018.09.11 at 09h 41m 37s.xml">
-      <configuration name="CheckPalindromeTest.checkResultForPalindrome" configurationId="JUnit" />
-    </history-entry>
-    <history-entry file="CheckPalindromeTest_CheckResultForREverseNUmber - 2018.09.14 at 09h 50m 38s.xml">
+    <history-entry file="CheckPalindromeTest_CheckResultForREverseNUmber - 2018.09.14 at 10h 40m 58s.xml">
       <configuration name="CheckPalindromeTest.CheckResultForREverseNUmber" configurationId="JUnit" />
+    </history-entry>
+    <history-entry file="MemberTest_checkResults - 2018.09.14 at 11h 03m 01s.xml">
+      <configuration name="MemberTest.checkResults" configurationId="JUnit" />
+    </history-entry>
+    <history-entry file="MemberTest_checkResults - 2018.09.14 at 11h 03m 33s.xml">
+      <configuration name="MemberTest.checkResults" configurationId="JUnit" />
     </history-entry>
   </component>
   <component name="ToolWindowManager">
@@ -325,7 +349,7 @@
       <window_info id="Favorites" order="7" side_tool="true" />
       <window_info anchor="bottom" id="Message" order="0" />
       <window_info anchor="bottom" id="Find" order="1" />
-      <window_info anchor="bottom" id="Run" order="2" weight="0.3283582" />
+      <window_info active="true" anchor="bottom" id="Run" order="2" visible="true" weight="0.3283582" />
       <window_info anchor="bottom" id="Debug" order="3" weight="0.39891452" />
       <window_info anchor="bottom" id="Cvs" order="4" weight="0.25" />
       <window_info anchor="bottom" id="Inspection" order="5" weight="0.4" />
@@ -394,27 +418,10 @@
   </component>
   <component name="editorHistoryManager">
     <entry file="file://$PROJECT_DIR$/Tests/CheckPalindromeTest.groovy" />
-    <entry file="file://$PROJECT_DIR$/src/Try.java">
-      <provider selected="true" editor-type-id="text-editor">
-        <state relative-caret-position="96">
-          <caret line="4" column="13" selection-start-line="4" selection-start-column="13" selection-end-line="4" selection-end-column="13" />
-        </state>
-      </provider>
-    </entry>
     <entry file="file://$PROJECT_DIR$/src/CheckPalindrome.java">
       <provider selected="true" editor-type-id="text-editor">
         <state relative-caret-position="219">
           <caret line="25" column="48" selection-start-line="25" selection-start-column="36" selection-end-line="25" selection-end-column="48" />
-        </state>
-      </provider>
-    </entry>
-    <entry file="file://$PROJECT_DIR$/Tests/CheckPalindromeTest.java">
-      <provider selected="true" editor-type-id="text-editor">
-        <state relative-caret-position="240">
-          <caret line="10" column="75" selection-start-line="10" selection-start-column="75" selection-end-line="10" selection-end-column="75" />
-          <folding>
-            <element signature="imports" expanded="true" />
-          </folding>
         </state>
       </provider>
     </entry>
@@ -428,10 +435,50 @@
         </state>
       </provider>
     </entry>
+    <entry file="file://$PROJECT_DIR$/src/Try.java">
+      <provider selected="true" editor-type-id="text-editor">
+        <state relative-caret-position="96">
+          <caret line="4" column="13" selection-start-line="4" selection-start-column="13" selection-end-line="4" selection-end-column="13" />
+        </state>
+      </provider>
+    </entry>
+    <entry file="file://$PROJECT_DIR$/Tests/CheckPalindromeTest.java">
+      <provider selected="true" editor-type-id="text-editor">
+        <state relative-caret-position="264">
+          <caret line="11" column="45" selection-start-line="11" selection-start-column="45" selection-end-line="11" selection-end-column="45" />
+          <folding>
+            <element signature="imports" expanded="true" />
+          </folding>
+        </state>
+      </provider>
+    </entry>
     <entry file="file://$PROJECT_DIR$/Tests/PowerFourTest.java">
       <provider selected="true" editor-type-id="text-editor">
-        <state relative-caret-position="535">
-          <caret line="35" column="68" selection-start-line="35" selection-start-column="68" selection-end-line="35" selection-end-column="68" />
+        <state relative-caret-position="696">
+          <caret line="29" column="5" lean-forward="true" selection-start-line="29" selection-start-column="5" selection-end-line="29" selection-end-column="5" />
+          <folding>
+            <element signature="imports" expanded="true" />
+          </folding>
+        </state>
+      </provider>
+    </entry>
+    <entry file="file://$PROJECT_DIR$/src/MemberVariable.java">
+      <provider selected="true" editor-type-id="text-editor">
+        <state relative-caret-position="395">
+          <caret line="41" lean-forward="true" selection-start-line="41" selection-end-line="41" />
+          <folding>
+            <element signature="e#354#355#0" expanded="true" />
+            <element signature="e#388#389#0" expanded="true" />
+            <element signature="e#422#423#0" expanded="true" />
+            <element signature="e#455#456#0" expanded="true" />
+          </folding>
+        </state>
+      </provider>
+    </entry>
+    <entry file="file://$PROJECT_DIR$/Tests/MemberTest.java">
+      <provider selected="true" editor-type-id="text-editor">
+        <state relative-caret-position="168">
+          <caret line="7" column="73" selection-start-line="7" selection-start-column="73" selection-end-line="7" selection-end-column="73" />
           <folding>
             <element signature="imports" expanded="true" />
           </folding>
